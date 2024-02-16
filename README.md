@@ -1,7 +1,9 @@
-#Silot : Dev
+Silot : Dev
 
-#Pratique devops : mise en place de sprint de 15 jours, méthode agile
+Pratique devops : mise en place de sprint de 15 jours, méthode agile
 
-#Appli : Visual studio
+Appli : Visual studio
 
-#Processus : Aucune idée
+Processus : Aucune idée
+
+Point bloquant et bon points : aucune idée
